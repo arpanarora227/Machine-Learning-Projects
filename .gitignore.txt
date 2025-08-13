@@ -1,0 +1,32 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code and virtual documents
+.virtual_documents/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+venv/
+.env/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Data folder
+Data/
+
+# Large or local data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+
+# Logs
+*.log
