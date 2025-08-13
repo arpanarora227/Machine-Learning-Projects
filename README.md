@@ -33,7 +33,8 @@ Each project section includes:
 **Description**: Classifies sonar signals as either rocks or mines based on their frequency pattern.  
 - **Type of Machine Learning**: Supervised Learning  
 - **Subtype**: Binary Classification  
-- **Algorithm**: Logistic Regression   
+- **Algorithm**: Logistic Regression
+- **Dataset**:  [Sonar Dataset](https://github.com/ChandanaGiridhar/Rock_vs_mine_prediction/blob/main/sonar_data.csv)
 
 ---
 
@@ -41,7 +42,8 @@ Each project section includes:
 **Description**: Predicts whether a patient is likely to have diabetes based on diagnostic measurements.  
 - **Type of Machine Learning**: Supervised Learning  
 - **Subtype**: Binary Classification  
-- **Algorithm**: Support Vector Machine (SVM)  
+- **Algorithm**: Support Vector Machine (SVM)
+- **Dataset**: [Diabetes Dataset](https://www.kaggle.com/datasets/mathchi/diabetes-data-set)
 
 ---
 
@@ -50,7 +52,7 @@ Each project section includes:
 - **Type of Machine Learning**: Supervised Learning  
 - **Subtype**: Regression  
 - **Algorithm**: To be decided  
-- **Dataset**: Kaggle House Prices Dataset (planned)  
+- **Dataset**: [Boston House Prices](https://www.kaggle.com/datasets/fedesoriano/the-boston-houseprice-data)
 
 ---
 
