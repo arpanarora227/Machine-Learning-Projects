@@ -47,20 +47,29 @@ Each project section includes:
 
 ---
 
-### 3. House Price Prediction *(Planned)*
+### 3. House Price Prediction 
 **Description**: Predicts the price of a house based on features like location, size, and condition.  
 - **Type of Machine Learning**: Supervised Learning  
 - **Subtype**: Regression  
-- **Algorithm**: To be decided  
+- **Algorithm**: XGBoost Regressor  
 - **Dataset**: [Boston House Prices](https://www.kaggle.com/datasets/fedesoriano/the-boston-houseprice-data)
 
 ---
 
-### 4. *(Future Project Slot)*
+### 4. Fake News Prediction *(In Progress)*
 **Description**: To be decided.  
-- **Type of Machine Learning**:  
-- **Subtype**:  
-- **Algorithm**:  
-- **Dataset**:  
+- **Type of Machine Learning**:  Supervised Learning
+- **Subtype**:  Binary Classification
+- **Algorithm**:  Logistic Regression
+- **Dataset**: [Fake News Prediction](https://www.kaggle.com/datasets/jillanisofttech/fake-or-real-news)
+
+---
+
+### 5. *(Future Project Slot)*
+**Description**: null
+- **Type of Machine Learning**:  null
+- **Subtype**:  null
+- **Algorithm**:  null
+- **Dataset**: null
 
 ---
